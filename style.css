@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-image: Firefly 20240318200006.png;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  
+}
+
+h1{
+  height: 100%;
+  margin: 25px;
+  padding: 25px;
+  text-align: center;
+}
